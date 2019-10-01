@@ -1,4 +1,6 @@
-#小説家になろう
+# 作品へのリンク集
+
+## 小説家になろう
 
 [タイム・リゾルビング](https://ncode.syosetu.com/n0853dk/)
 
@@ -31,7 +33,7 @@
 [シンギュラリティと量子コンピューティングについて(Singularity by black hole computing)](https://ncode.syosetu.com/n3089ew/)
 
 
-#カクヨム
+## カクヨム
 
 [リアル異世界転生について書いてみた。](https://kakuyomu.jp/works/1177354054888918094/episodes/1177354054888918209)
 
