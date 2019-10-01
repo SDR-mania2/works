@@ -1,7 +1,5 @@
 #works
 
-作品リスト
-
 ##小説家になろう
 
 [タイム・リゾルビング](https://ncode.syosetu.com/n0853dk/)
