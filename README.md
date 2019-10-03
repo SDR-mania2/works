@@ -39,6 +39,14 @@
 
 [AGI共産主義の成立と展開](https://kakuyomu.jp/works/1177354054891251049/episodes/1177354054891251254)
 
+## Wattpad
+
+[A philosophical zombie and the Frame Problem and Turing test](https://www.wattpad.com/story/174080655-a-philosophical-zombie-and-the-frame-problem-and)
+
+「哲学的ゾンビとフレーム問題とチューリングテスト」のenglish versionです。
+
 各作品のライセンスはリンク先サイトのライセンスに従います。
+
+このページは以下のライセンスに従います。
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>の下に提供されています。
