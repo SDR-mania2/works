@@ -43,7 +43,7 @@
 
 [A philosophical zombie and the Frame Problem and Turing test](https://www.wattpad.com/story/174080655-a-philosophical-zombie-and-the-frame-problem-and)
 
-「哲学的ゾンビとフレーム問題とチューリングテスト」のenglish versionです。
+「小説家になろう」に投稿した「哲学的ゾンビとフレーム問題とチューリングテスト」のenglish versionです。
 
 各作品のライセンスはリンク先サイトのライセンスに従います。
 
